@@ -5,6 +5,7 @@ Website - https://poegen.azurewebsites.net/ (*may or may not work*)
 
 <h3 align = "center">Home Page</h3>
 
+---
 <img align="left" src="Images/Home.png"></img>
 
 ---
