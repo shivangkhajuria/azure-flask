@@ -1,15 +1,23 @@
 ## WebApp to generate Poetry using OpenAI's GPT-2 model
 
+---
+
 Website - https://poegen.azurewebsites.net/ (*may or may not work*)
 
+---
 
 <h3 align = "center">Home Page</h3>
 
 <img align="left" src="Images/Home.png">
 
+---
+
 <h3 align = "center">Generating Samples</h3>
 
 <img align="left" src="Images/Prediction.png">
+
+---
+
 
 <h3> Data Used</h3>
 
