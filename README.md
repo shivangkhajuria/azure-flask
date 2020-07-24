@@ -8,11 +8,13 @@ Website - https://poegen.azurewebsites.net/ (*may or may not work*)
 <img align="left" src="Images/Home.png">
 
 ---
+
 <h3 align = "center">Generating Samples</h3>
 
 <img align="left" src="Images/Prediction.png">
 
 ---
+
 <h3> Data Used</h3>
 
 The Data used to train the model can be found in [this repo](https://github.com/docmarionum1/haikurnn/)
