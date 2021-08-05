@@ -1,5 +1,6 @@
 ## WebApp to generate Poetry using OpenAI's GPT-2 model
 
+The webapp used GPT-2 model to generate Haiku that may look like human generated poetry.
 
 Website - https://poegen.azurewebsites.net/ (*may or may not work*)
 
